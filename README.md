@@ -17,6 +17,23 @@ This is a game that tests a user's knowledge of RGB colour codes and helps them 
 + [Css](https://developer.mozilla.org/en-US/docs/Web/CSS)
 + [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript)
 
+## Installation or Getting Started
+
+Run the following command in the terminal:
+
+	git clone https://github.com/Nishkarsh01/Guess-the-rgb-color-game.git
+or download the zip file from github.
+    
+
+## Usage
+After extracting the files,
+
+    cd Guess-the-rgb-color-game
+    open the index.html file
+
+
+
+
 
 
 
