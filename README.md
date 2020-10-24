@@ -29,7 +29,7 @@ or download the zip file from github.
 After extracting the files,
 
     cd Guess-the-rgb-color-game
-and simply, open the index.html file
+    and simply, open the index.html file
 
 ## Collaborate
 To collaborate, reach me on [nishdubb11@gmail.com]()
