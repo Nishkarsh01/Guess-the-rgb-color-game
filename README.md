@@ -5,7 +5,7 @@ This is a game that tests a user's knowledge of RGB colour codes and helps them 
 > Nishkarsh Dubb
 
 ## Screenshots 📷
-![Game Screenshot]()
+![Game Screenshot](screenshots/1.gif)
 
 ## Live Demo 
 
