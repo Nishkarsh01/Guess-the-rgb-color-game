@@ -31,7 +31,14 @@ After extracting the files,
     cd Guess-the-rgb-color-game
     open the index.html file
 
+## Collaborate
+To collaborate, reach me on [nishdubb11@gmail.com]()
 
+## Further help/Reference
+
++ [MDN Web Docs](https://developer.mozilla.org/en-US/)
++ [w3schools.com](https://www.w3schools.com/)
+    
 
 
 
