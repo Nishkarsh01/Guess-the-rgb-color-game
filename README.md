@@ -4,7 +4,7 @@ This is a game that tests a user's knowledge of RGB colour codes and helps them 
 ## How to play?
 The game displays to the user a selection of randomly generated colour tiles, alongside a single colour code, and asks the user to select the correct tile. Users can play the game on easy or hard mode (3 or 6 tiles), as well as having the ability to have the code displayed in either hexidecimal or RGB code.
 
-## Author 
+## Developed By
 > Nishkarsh Dubb
 
 ## Screenshots 📷
